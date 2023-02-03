@@ -1,5 +1,6 @@
 Welcome to My Developer Portfolio
-I am a software developer with experience in creating and maintaining web applications. My goal is to build applications that are not only functional but also visually appealing. I enjoy working with a variety of technologies and am always eager to learn more.
+I am a software developer with experience in creating and maintaining web applications. My goal is to build applications that are not only functional but also 
+visually appealing. I enjoy working with a variety of technologies and am always eager to learn more.
 
 Skills
 Proficient in HTML, CSS, JavaScript, and React
@@ -22,3 +23,5 @@ Thank you for visiting my portfolio!
   <img src="https://img.shields.io/badge/React-61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-green" />
 </p>
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
