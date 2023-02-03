@@ -4,7 +4,7 @@
 functional but also visually appealing. I enjoy working with a variety of technologies and always eager to learn more.</h3>
 <img align="center" alt="Gif for programming" width:"300" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamsshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsshoaib" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahamsshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsshoaib" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamsshoaib" alt="mahamsshoaib" /></a> </p>
 
