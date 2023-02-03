@@ -6,7 +6,7 @@ functional but also visually appealing. I enjoy working with a variety of techno
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamsshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsshoaib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamsshoaib" alt="mahamsshoaib" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamsshoaib" alt="mahamsshoaib" /></a> </p>
 
 - 🔭 I’m currently working on [Recipe Website](https://github.com/mahamsshoaib/finalCapstone.git)
 
