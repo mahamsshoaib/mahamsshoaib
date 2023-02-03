@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)]
 <h1 align="center">Hi 👋, I'm Maham</h1>
 <h3 align="center">I am a software developer with experience in creating and maintaining web applications. My goal is to build applications that are not only functional but also visually appealing. I enjoy working with a variety of technologies and always eager to learn more.</h3>
 
