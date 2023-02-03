@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maham</h1>
 <h3 align="center">I am a software developer with experience in creating and maintaining web applications. My goal is to build applications that are not only 
 functional but also visually appealing. I enjoy working with a variety of technologies and always eager to learn more.</h3>
-<img align="right" alt="Gif for programming" width:"300" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
+<img align="center" alt="Gif for programming" width:"300" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamsshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsshoaib" /> </p>
 
